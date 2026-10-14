@@ -1,19 +1,19 @@
 export const homeConfig = {
   hero: {
     /** Words wrapped in `*asterisks*` are set in italic. */
-    title: "An independent magazine on *writing*, *design*, and the *slow web*.",
-    lead: "Essays, field notes, and conversations, published occasionally, edited carefully, and meant to be read in a single sitting.",
+    title: "A daily diagnostic tool for *unmasking heart idols* and *finding rest*.",
+    lead: "Every day we quietly elevate good creation gifts into functional masters. This site is a self-preaching workshop designed to trace daily friction, anxiety, and resentment down to root idols—and locate true security in Christ.",
     primary: { label: "Read the lead essay" },
     secondary: { label: "Browse the archive", href: "/blog/" },
   },
   latest: {
-    title: "Latest writing",
+    title: "Latest audits",
     /** How many posts the grid shows, per section filter. */
     count: 6,
   },
   sections: {
-    title: "Browse by section",
-    lead: "Five sections, each with its own pace. Start wherever feels right.",
+    title: "Browse by Diagnostic Lens",
+    lead: "Filter our daily entries by the core motivational drives and functional masters you are examining today.",
   },
 };
 
