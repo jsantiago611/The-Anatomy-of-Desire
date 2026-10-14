@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'Bradford';
-  src: url('/fonts/BradfordLLWeb-Light.woff2') format('woff2');
+  src: url('/fonts/bradford/BradfordLLWeb-Light.woff2') format('woff2');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -12,7 +12,7 @@
 
 @font-face {
   font-family: 'Bradford';
-  src: url('/fonts/BradfordLLWeb-LightItalic.woff2') format('woff2');
+  src: url('/fonts/bradford/BradfordLLWeb-LightItalic.woff2') format('woff2');
   font-weight: 300;
   font-style: italic;
   font-display: swap;
@@ -20,7 +20,7 @@
 
 @font-face {
   font-family: 'Bradford';
-  src: url('/fonts/BradfordLLWeb-Medium.woff2') format('woff2');
+  src: url('/fonts/bradford/BradfordLLWeb-Medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -28,7 +28,7 @@
 
 @font-face {
   font-family: 'Bradford';
-  src: url('/fonts/BradfordLLWeb-MediumItalic.woff2') format('woff2');
+  src: url('/fonts/bradford/BradfordLLWeb-MediumItalic.woff2') format('woff2');
   font-weight: 500;
   font-style: italic;
   font-display: swap;
