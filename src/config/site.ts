@@ -9,10 +9,10 @@ export interface SocialLink extends NavLink {
 }
 
 export const siteConfig = {
-  name: "Quiet Pages",
-  title: "Quiet Pages - An independent magazine on writing, design, and the slow web",
+  name: "The Daily Heart Audit",
+  title: "The Daily Heart Audit — Unmasking Idols, Finding Rest",
   description:
-    "An independent magazine on writing, design, and the slow web. Essays, field notes, and conversations, published occasionally and read closely.",
+    "A  self-diagnostic journal for examining everyday friction, unmasking hidden heart idols, and finding rest in Christ. Published frequently and read closely.",
   siteUrl: "https://quietpages.xocoweb.workers.dev",
   language: "en",
   locale: "en_US",
